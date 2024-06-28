@@ -1,24 +1,3 @@
-// import React from "react";
-// import { BrowserRouter, Routes, Route } from "react-router-dom";
-// import Home from "./pages/Home";
-// import MultiSteps from "./pages/MultiSteps";
-
-// function App() {
-//   return (
-//     <BrowserRouter>
-//       <Routes>
-//         <Route path="/" element={<Home />} />
-
-//         {/* <Route path="/multi-step-form" element={<MultiStepForm />} /> */}
-
-//         <Route path="/multi-steps" element={<MultiSteps />} />
-//       </Routes>
-//     </BrowserRouter>
-//   );
-// }
-
-// export default App;
-
 import React from "react";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Home from "./utils/Home";

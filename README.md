@@ -25,3 +25,7 @@ Lets' forget about all previous example and start a bland new full example with 
 ---
 
 Multi-steps Questionnaire works best in utils folder
+
+This can eliminate unserious and lighthearted users,
+
+I think it also can make Bot Registration much harder if the quesions are in pictures.
